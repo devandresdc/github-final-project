@@ -17,7 +17,8 @@ Simple calculation of simple interest.
 User-friendly interface for people of all ages and levels of financial education.
 Accessible online from any device.
 Contributing to the Project
-This project is open-source, and we are committed to keeping it free and accessible to all. If you are a developer, designer, or just someone interested in supporting our cause, we invite you to contribute to the project. Please refer to our CONTRIBUTING.md for more information on how you can get involved.
+This project is open-source, and we are committed to keeping it free and accessible to all. If you are a developer, designer, or just someone interested in supporting our cause, we invite you to contribute to the project. Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md)
+ for more information on how you can get involved.
 
 Thank you for joining us in our mission to empower low-income individuals and provide them with financial opportunities. Together, we can make a difference in the lives of many people.
 
