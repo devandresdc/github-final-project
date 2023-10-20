@@ -3,7 +3,7 @@ This repository represents the final result of my IBM master's program.
 
 
 # Microfinance: Simple Interest Calculator
-<div style="text-align:center">
+###<div style="text-align:center">
     <img src="Resources/Microfinances_Logo.png" alt="Texto alternativo de la imagen">
 </div>
 
