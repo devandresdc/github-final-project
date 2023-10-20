@@ -3,6 +3,7 @@ This repository represents the final result of my IBM master's program.
 
 
 # Microfinance: Simple Interest Calculator
+![Logo de mi proyecto](Resources/Microfinances_Logo.png)
 
 Welcome to the Microfinance: Simple Interest Calculator project. In a world where many low-income individuals struggle to access basic financial services, our mission is clear: to empower these communities by providing a simple and effective tool for calculating simple interest in their financial transactions.
 
