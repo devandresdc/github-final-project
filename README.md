@@ -1,6 +1,17 @@
 # github-final-project
 This repository represents the final result of my IBM master's program.
 
+**A calculator that calculates simple interest given principal, annual rate of interest and time period in years.**
+
+**Input:**
+
+  **p, principal amount**
+  **t, time period in years**
+  **r, annual rate of interest**
+  
+**Output**
+
+  **simple interest = p*t*r**
 
 # Microfinance: Simple Interest Calculator
 ###
@@ -29,11 +40,3 @@ This project is open-source, and we are committed to keeping it free and accessi
 Thank you for joining us in our mission to empower low-income individuals and provide them with financial opportunities. Together, we can make a difference in the lives of many people.
 
 
-**A calculator that calculates simple interest given principal, annual rate of interest and time period in years.**
-
-**Input:**
-  **p, principal amount**
-  **t, time period in years**
-  **r, annual rate of interest**
-**Output**
-  **simple interest = p*t*r**
