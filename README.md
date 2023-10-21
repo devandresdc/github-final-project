@@ -6,7 +6,9 @@ This repository represents the final result of my IBM master's program.
 **Input:**
 
   **p, principal amount**
+  
   **t, time period in years**
+  
   **r, annual rate of interest**
   
 **Output**
