@@ -1,7 +1,7 @@
 # github-final-project
 This repository represents the final result of my IBM master's program.
 
-###A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+### A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 **Input:**
 
